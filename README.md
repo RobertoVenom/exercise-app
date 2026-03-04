@@ -1,7 +1,7 @@
 # exercise-app
 This is the exercise update on Running
 
-Running: https://RobertoVenom.github.io/React_Excerise_App/src/component/RunningExercise/index.html
+Running: https://RobertoVenom.github.io/React_Excerise_App/src/component/RunningExercise.html
 
 ## Setup Instructions
 1. Clone the repository
